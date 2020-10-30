@@ -1,12 +1,6 @@
 ## Proposition 19 : Home Protection for Seniors, Severely Disabled, Families, and Victims of Wildfire or Natural Disaster Act
 
-
-<<<<<<< HEAD
 Reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund. Seniors (above 55) are excempted from the reassessment. 
-
-=======
-Reassess property tax on inherited properties that are used as second homes or rentals and valued over $1 million, and establish a fire protection services fund. Seniors (above 55) are exempt from the reassessment.
->>>>>>> e957cb2aa691b4e247a8210bc247f32b0312a188
 
 **Main category**: Economy & Taxes
 
@@ -42,14 +36,12 @@ The main supporters of this proposition verify this association as the main oppo
 **URL of report:** https://lao.ca.gov/BallotAnalysis/Proposition?number=19&year=2020
 
 #### Main Benefits
-<<<<<<< HEAD
+
 - Schools and local governments would receive an increase in revenue by \$200 to \$400 million dollars per year* for the first few years, overtime increasing to about 1 billion dollars per year as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
 - The number of movers could increase by 10,000 to 60,000** increasing property tax revenue due to higher home prices and increased demand for home building.
-=======
 - Schools and local governments would receive an increase in revenue by 10 to 70 million dollars per year for the first few years, overtime increasing to about 300 million dollars per year* as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
 
 - The number of movers could increase by 10,000 to 70,000** , as more people can buy and sell without facing increases in property tax, this would increase taxes on the sale of homes, increasing revenue for state and local governments by 10 to 70 million dollars per year.***
->>>>>>> e957cb2aa691b4e247a8210bc247f32b0312a188
 
 
 *assumed from LAO report which mentions, "in the first few years, local governments could gain tens of millions of dollars per year" and over time, revenue gains could grow to "a few million dollars per year" and would be spent of fire protection.
