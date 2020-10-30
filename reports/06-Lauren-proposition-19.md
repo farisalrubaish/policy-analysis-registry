@@ -37,8 +37,6 @@ The main supporters of this proposition verify this association as the main oppo
 
 #### Main Benefits
 
-- Schools and local governments would receive an increase in revenue by \$200 to \$400 million dollars per year* for the first few years, overtime increasing to about 1 billion dollars per year as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
-- The number of movers could increase by 10,000 to 60,000** increasing property tax revenue due to higher home prices and increased demand for home building.
 - Schools and local governments would receive an increase in revenue by 10 to 70 million dollars per year for the first few years, overtime increasing to about 300 million dollars per year* as a result of reevaluation of 60,000 to 80,000 households estimated excluded households due to inheritance property tax laws.
 
 - The number of movers could increase by 10,000 to 70,000** , as more people can buy and sell without facing increases in property tax, this would increase taxes on the sale of homes, increasing revenue for state and local governments by 10 to 70 million dollars per year.***
@@ -85,7 +83,7 @@ Yes on Prop 19 and the LAO office confirms this report is the most up to date re
 #### Main Costs
 - For the 10,000 to 70,000 households who have inherited property, they may face higher property tax per year resulting in 100 to 700 million dollars in additional taxes.***
 
-- 10 to 70 million additional dollars per year**** for counties to pay for staff and computer technology to carry out this proposition.  
+- Will cost 10 to 70 million additional dollars per year**** for counties to pay for staff and computer technology to carry out this proposition.  
 
 *** Assumed from the LAO report which states "tens of thousands of families" face higher property tax and states "hundreds of millions of dollars" of additional taxes as the result of these property tax increases.
 
