@@ -4,7 +4,6 @@ Should the US expand safety net programs by implementing some form of guaranteed
 
 **Main category**: Economy & Taxes
 
-
 ## Main groups  
 
 ### Supporting group
@@ -42,22 +41,21 @@ Supporting group (UBI Center) did not verify these opposing groups, but suggeste
 
 **Authors (if any):** Michalis Nikiforos, Marshall Steinbaum, Gennaro Zezza
 
-**URL of report:** https://rooseveltinstitute.org/wp-content/uploads/2020/07/RI-Macroeconomic-Effects-of-UBI-201708.pdf
+**URL of report:** https://rooseveltinstitute.org/wp-content/uploads/2020/07/RI-Macroeconomic-Effects-of-UBI-201708.pdf  
+
+The Roosevelt Institute study considers 3 alternative proposals of a UBI policy, and constructs different scenarios to consider financing options and distributional effects. For this policy analysis report, the relevant scenarios are scenarios 2 and 8, which examine a fully deficit-financed $500 monthly allowance for all adults. Scenario 8 adjusts Scenario 2 results for distributional effects.
 
 #### Main Benefits
-The Roosevelt Study considers 3 scenarios of a UBI policy that is fully deficit-financed.  
-- (with a $6000 annual allowance) 6.8% increase in GDP within 8 years (by 2027)
-- Increase of 2% in employment
+- relevant scenarios project a 6.5% increase (scenario 2) and 6.79% increase (scenario 8), respectively, in Real GDP
+  - Figure 2b: Scenarios 2 and 8 result in ~1.2-1.3 billion increase over 2009 GDP
+- 2.389 billion jobs added under scenario 2, 2.502 billion jobs added under scenario 8
 
 #### Main Costs
-- One sentence for each cost that is assessed. Indicate main quantitative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
-- 9.33% increase in deficit
+- (For same scenarios 2 and 8) 4.73% increase and 4.61% increase in deficit
 
 
-##### Follow up
-Asks supporters and opponents about these specific costs and benefits  
-
-
+#### Follow up
+Emailed authors on 10/30; waiting for response.
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:**  Conversation between economists Jason Furman and Douglas Holtz-Eakin (I'm unsure if this article is citing the PWBM report on UBI, or a separate PWBM report) https://link-springer-com.libproxy.berkeley.edu/article/10.1057/s11369-020-00177-1
@@ -70,18 +68,17 @@ Asks supporters and opponents about these specific costs and benefits
 
 **URL of report:** https://budgetmodel.wharton.upenn.edu/issues/2018/3/29/options-for-universal-basic-income-dynamic-modeling
 
-#### Main Benefits
 The Penn-Wharton Budget Model also assumes the UBI policy is deficit-funded.  For a $6000 annual allowance:  
+
+#### Main Benefits
 - No specific quantitative benefits specified
 
 #### Main Costs
-- If plan is implemented in 2018, there is an expected reduction GDP of 6.1% by 2027, and 9.3% by 2032.
+- If plan is implemented in 2018, there is an expected reduction in GDP of 6.1% by 2027, and 9.3% by 2032.
 - Increase federal debt by more than 63.5% by 2027 and 81.1% by 2032
 
-## Followup  
-
-- Contacted supporting group (UBI center) and opposing group (California Labor Federation, Employment Training Panel)
-- Received response from UBI center
+#### Followup  
+- Contacted through [PWBM contact page](https://budgetmodel.wharton.upenn.edu/contact) on 10/30; waiting for response.
 
 <!-- Later
 ## Perceptions of credibility  
