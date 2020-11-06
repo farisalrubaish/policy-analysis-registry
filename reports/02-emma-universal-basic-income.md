@@ -48,14 +48,14 @@ The Roosevelt Institute study considers 3 alternative proposals of a UBI policy,
 #### Main Benefits
 - relevant scenarios project a 6.5% increase (scenario 2) and 6.79% increase (scenario 8), respectively, in Real GDP
   - Figure 2b: Scenarios 2 and 8 result in ~1.2-1.3 billion increase over 2009 GDP
-- 2.389 billion jobs added under scenario 2, 2.502 billion jobs added under scenario 8
+- 2.389 million increase of employees in labor force under scenario 2, 2.502 million increase under scenario 8
 
 #### Main Costs
 - (For same scenarios 2 and 8) 4.73% increase and 4.61% increase in deficit
 
 
 #### Follow up
-Emailed authors on 10/30; waiting for response.
+Emailed authors on 10/30; author (Nikiforos) responded with dataset to find precise quantities of increase in GDP and increase in deficit, also confirmed main benefits and costs (corrected typo in main benefits).
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:**  Conversation between economists Jason Furman and Douglas Holtz-Eakin (I'm unsure if this article is citing the PWBM report on UBI, or a separate PWBM report) https://link-springer-com.libproxy.berkeley.edu/article/10.1057/s11369-020-00177-1
@@ -78,7 +78,7 @@ The Penn-Wharton Budget Model also assumes the UBI policy is deficit-funded.  Fo
 - Increase federal debt by more than 63.5% by 2027 and 81.1% by 2032
 
 #### Followup  
-- Contacted through [PWBM contact page](https://budgetmodel.wharton.upenn.edu/contact) on 10/30; waiting for response.
+- Contacted through [PWBM contact page](https://budgetmodel.wharton.upenn.edu/contact) on 10/30; contact (Sophia Seidenberg) confirmed main costs but does not have precise quantities. Also stated that there may be benefits, but PWBM has not estimated.
 
 <!-- Later
 ## Perceptions of credibility  
