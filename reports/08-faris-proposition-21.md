@@ -17,7 +17,7 @@ URL with supporting evidence of supporting:
 - https://www.losangelesblade.com/2020/09/14/yes-on-21-california-democratic-party-panel-why-proposition-21-must-be-passed/
 
 #### Follow Up
-E-mail sent, no follow up yet.
+Received a followup with an additional report, https://reports.nlihc.org/oor. The rest are already linked on organization's website.
 
 
 ### Opposing group
@@ -63,7 +63,7 @@ E-mails sent out, no follow ups yet
 
 
 ### Presented by opposing group
-**Evidence of opponents citing this report:** [URL/Email]
+**Evidence of opponents citing this report:**
 
 **Title of report:**
 
@@ -74,10 +74,10 @@ E-mails sent out, no follow ups yet
 **URL of report:**
 
 #### Main Benefits
-- One sentence for each benefit that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units  (eg. "increase in income in 10%")
+
 
 #### Main Costs
-- One sentence for each cost that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
+
 
 #### Follow Up
 There are policy reports done by Stanford and Berkeley that are mentioned by the opposing group many times but were not online, I reached out to them in order to get it. No follow ups yet
