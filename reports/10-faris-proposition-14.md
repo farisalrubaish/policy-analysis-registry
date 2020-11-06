@@ -10,54 +10,69 @@ repayment while expanding related programs.
 ## Main groups  
 
 ### Supporting group
-Name: Yes on 14: Californians for Stem Cell Research, Treatments and Cures
+Name: Yes on 14: Californians for Stem Cell Research, Treatments and Cures, Governor Gavin Newsom, Regents of the University of California, the California Democratic Party, Juvenile Diabetes Research Foundation
 
 URL with supporting evidence of supporting:  
-- https://caforcures.com/  
+- https://caforcures.com/
+- https://calmatters.org/health/2020/10/prop-14-stem-cell-research-funding/  
 
+#### Follow Up
+No Replies Yet
 
 ### Opposing group
-Name: John Seiler
+Name: John Seiler, Center for Genetics and Society
 
 URL with opposing evidence of supporting:  
 - https://votersedge.org/en/ca/ballot/election/2020-11-03/measure/proposition-14
+- https://capitolweekly.net/5-5-billion-stem-cell-rescue-plan-makes-november-ballot/
+
+#### Follow Up
+No Replies Yet
 
 ## Policy estimates
 Identify and read the main policy analyses provided by each group
 
 ### Presented by supporting group
-**Evidence of supporters citing this report:**
+**Evidence of supporters citing this report:** https://caforcures.com/economic-facts/
 
-**Title of report:**
-**Authoring Organization:**
-**Authors (if any):**
+**Title of report:** The Economic Case for Public Investment in Stem Cell Research
+**Authoring Organization:** USC Schaeffer
+**Authors (if any):** Dana Goldman, Ana Rose, Martha Ryan, Bryan Tysinger, Dan Wei, Mark Humayuan
 
-**URL of report:**
+**URL of report:** https://healthpolicy.usc.edu/wp-content/uploads/2020/06/The-Economic-Case-for-Public-Investment-in-Stem-Cell-Research_FINAL-1.pdf
 
 #### Main Benefits
--
+- ~$20 billion in Economic stimulus for California economy
+- $1.2 billion state revenue
+- 100,000 full-time equivalent jobs
+
+Projected that Prop 14 will generate more funding for the state than it will pay for it for 10-12 years
 
 #### Main Costs
--
+None stated
 
+
+#### Follow Up
+No Replies Yet
 
 ### Presented by opposing group
-**Evidence of opponents citing this report:** [URL/Email]
+**Evidence of opponents citing this report:**
 
 **Title of report:**
 
-**Authoring Organization:** Stanford/Berkeley
+**Authoring Organization:**
 
 **Authors (if any):**
 
 **URL of report:**
 
 #### Main Benefits
-- One sentence for each benefit that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units  (eg. "increase in income in 10%")
+
 
 #### Main Costs
-- One sentence for each cost that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
 
+
+* There is no significant organized opposition to Proposition 14, and the "No on Proposition 14" committee has raised only $250.
 #### Follow Up
 
 
