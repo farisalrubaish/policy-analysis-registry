@@ -16,6 +16,9 @@ URL with supporting evidence of supporting:
 - https://www.businesswire.com/news/home/20200701006018/en/Proposition-21%21-%E2%80%93-California-Rent-Control-Ballot-Measure-Now-Heads-to-Voters-in-November-as-Campaign-Rolls-Out-200-Endorsements
 - https://www.losangelesblade.com/2020/09/14/yes-on-21-california-democratic-party-panel-why-proposition-21-must-be-passed/  
 
+#### Follow Up
+A housing research associate wrote back confirming most studies are linked on the organization's website. However, I also received a report that's not linked, https://reports.nlihc.org/oor.
+
 
 ### Opposing group
 Name: No on Prop 21; Governor Gavin Newsom; California Apartment Association; Essex Property Trust; California Senior Advocates Group
@@ -54,7 +57,7 @@ Identify and read the main policy analyses provided by each group
 
 
 ### Presented by opposing group
-**Evidence of opponents citing this report:** [URL/Email]
+**Evidence of opponents citing this report:**
 
 **Title of report:**
 
@@ -65,13 +68,13 @@ Identify and read the main policy analyses provided by each group
 **URL of report:**
 
 #### Main Benefits
-- One sentence for each benefit that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units  (eg. "increase in income in 10%")
+
 
 #### Main Costs
-- One sentence for each cost that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
+
 
 #### Follow Up
-There are policy reports done by Stanford and Berkeley that are mentioned by the opposing group many times but were not online, I reached out to them in order to get it.
+There are policy reports done by Stanford and Berkeley that are mentioned by the opposing group many times but were not online, I reached out to them in order to get it. No Follow Ups.
 
 
 <!-- Later
