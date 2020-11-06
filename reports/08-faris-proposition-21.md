@@ -17,7 +17,7 @@ URL with supporting evidence of supporting:
 - https://www.losangelesblade.com/2020/09/14/yes-on-21-california-democratic-party-panel-why-proposition-21-must-be-passed/
 
 #### Follow Up
-E-mail sent, no follow up yet
+E-mail sent, no follow up yet.
 
 
 ### Opposing group
