@@ -16,6 +16,9 @@ URL with supporting evidence of supporting:
 - https://advocacy.calchamber.com/elections/ballot-measures/proposition-22/  
 - https://www.theguardian.com/us-news/2020/oct/15/proposition-22-california-ballot-measure-explained  
 
+#### Follow up
+sent email to Yes on 22 on 11/6; waiting for response.  
+
 ### Opposing group
 Name: No on Prop 22, Slam the Brakes on Uber, Lyft and DoorDash; Service Employees International Union; Joe Biden and Kamala Harris; California Teachers Association; Gig Workers Rising; Mobile Workers Alliance
 
@@ -25,6 +28,9 @@ URL with opposing evidence of supporting:
 - https://www.sfweekly.com/news/organized-labor-fights-uber-and-lyfts-prop-22/  
 - https://www.cft.org/endorsements  
 - https://www.sacbee.com/news/politics-government/capitol-alert/article246412180.html  
+
+#### Follow up
+sent email to No on 22 on 11/6; waiting for response.  
 
 ## Policy estimates
 Identify and read the main policy analyses provided by each group
@@ -43,12 +49,14 @@ Identify and read the main policy analyses provided by each group
 #### Main Benefits
 - Prevent a 25.9% to 100% increase in cost for consumers of rideshare services
 - Prevent a 35.2% to 100% increase in cost for food/grocery delivery services
-- Prevent reducation of average hourly compensation of drivers  from $19.55 to $14.67
+- Prevent reduction of average hourly compensation of drivers  from $19.55 to $14.67
 - Prevent loss of up to 900,000 app-based driving jobs for Californians
 
 #### Main Costs
 - None
 
+#### Follow up
+Emailed authors on 11/6; waiting for response.  
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:** https://mobilealliance.org/ca-prop-22-facts/ (cites main cost from study)
@@ -67,7 +75,8 @@ Identify and read the main policy analyses provided by each group
 #### Main Costs
 - Reduction of guaranteed pay from $15.60 to $5.64 per hour
 
-
+#### Follow up
+Emailed authors on 11/6; Reich directed us to __working paper on AB5__ [here](https://irle.berkeley.edu/files/2020/10/Pay-Passengers-and-Profits.pdf) (Passing Prop 22 exempts companies hiring independent contractors from complying with AB5)
 
 <!-- Later
 ## Perceptions of credibility  
