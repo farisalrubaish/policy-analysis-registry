@@ -14,7 +14,10 @@ URL with supporting evidence of supporting:
 - https://yeson21ca.org/endorsements/
 - https://www.businesswire.com/news/home/20200917005305/en/Bernie-Sanders-Backs-Rent-Control-Slams-Greedy-Landlords-in-New-%E2%80%98Yes-on-21%E2%80%99-Spot
 - https://www.businesswire.com/news/home/20200701006018/en/Proposition-21%21-%E2%80%93-California-Rent-Control-Ballot-Measure-Now-Heads-to-Voters-in-November-as-Campaign-Rolls-Out-200-Endorsements
-- https://www.losangelesblade.com/2020/09/14/yes-on-21-california-democratic-party-panel-why-proposition-21-must-be-passed/  
+- https://www.losangelesblade.com/2020/09/14/yes-on-21-california-democratic-party-panel-why-proposition-21-must-be-passed/
+
+#### Follow Up
+Received a followup with an additional report, https://reports.nlihc.org/oor. The rest are already linked on organization's website.
 
 #### Follow Up
 A housing research associate wrote back confirming most studies are linked on the organization's website. However, I also received a report that's not linked, https://reports.nlihc.org/oor.
@@ -29,6 +32,9 @@ URL with opposing evidence of supporting:
 - https://caanet.org/novembers-extreme-rent-control-measure-has-a-name-prop-21/
 -  https://yeson21ca.org/essex-property-trust-spearheads-wall-street-opposition-prop-21/
 - https://www.businesswire.com/news/home/20200805005835/en/Leading-Senior-Groups-Announce-Opposition-to-Proposition-21
+
+#### Follow Up
+E-mail sent, no follow up yet
 
 ## Policy estimates
 Identify and read the main policy analyses provided by each group
@@ -55,6 +61,9 @@ Identify and read the main policy analyses provided by each group
 - New market rates will not filter down to moderate/low-income tenants (A shortfall of 1.5 million tenants)
 - While construction market rates fall by 1.5%, rent only drops by 0.3% annually, leading to a heightened housing cost burden
 
+#### Follow Up
+E-mails sent out, no follow ups yet
+
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:**
@@ -75,6 +84,7 @@ Identify and read the main policy analyses provided by each group
 
 #### Follow Up
 There are policy reports done by Stanford and Berkeley that are mentioned by the opposing group many times but were not online, I reached out to them in order to get it. No Follow Ups.
+
 
 
 <!-- Later

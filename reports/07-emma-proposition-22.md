@@ -16,8 +16,11 @@ URL with supporting evidence of supporting:
 - https://advocacy.calchamber.com/elections/ballot-measures/proposition-22/  
 - https://www.theguardian.com/us-news/2020/oct/15/proposition-22-california-ballot-measure-explained  
 
+#### Follow up
+sent email to Yes on 22 on 11/6; waiting for response.  
+
 ### Opposing group
-Name: No on Prop 22, Slam the Brakes on Uber, Lyft and DoorDash; Service Employees International Union; Joe Biden and Kamala Harris; California Teachers Association; Gig Workers Rising
+Name: No on Prop 22, Slam the Brakes on Uber, Lyft and DoorDash; Service Employees International Union; Joe Biden and Kamala Harris; California Teachers Association; Gig Workers Rising; Mobile Workers Alliance
 
 URL with opposing evidence of supporting:  
 - https://nooncaprop22.com/  
@@ -26,44 +29,54 @@ URL with opposing evidence of supporting:
 - https://www.cft.org/endorsements  
 - https://www.sacbee.com/news/politics-government/capitol-alert/article246412180.html  
 
+#### Follow up
+sent email to No on 22 on 11/6; waiting for response.  
+
 ## Policy estimates
 Identify and read the main policy analyses provided by each group
 
 ### Presented by supporting group
-**Evidence of supporters citing this report:** [URL/Email]
+**Evidence of supporters citing this report:** https://yeson22.com/why-yes-on-22-is-needed-for-consumers-independent-study-finds-app-based-rideshare-and-delivery-costs-and-wait-times-could-double/
 
-**Title of report:**
+**Title of report:** How Will Reclassification of App-Based Drivers as "Employees," Rather Than "Independent Contractors," Affect Consumers in California?
 
-**Authoring Organization:**
+**Authoring Organization:** Berkeley Research Group
 
-**Authors (if any):**
+**Authors (if any):** David Lewin, William Hamm, Mia Kim
 
-**URL of report:**
+**URL of report:** https://yeson22.com/wp-content/uploads/2020/09/BRG-MINI-REPORT-CONSUMER-IMPACT_Final.pdf
 
 #### Main Benefits
-- One sentence for each benefit that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units  (eg. "increase in income in 10%")
+- Prevent a 25.9% to 100% increase in cost for consumers of rideshare services
+- Prevent a 35.2% to 100% increase in cost for food/grocery delivery services
+- Prevent reduction of average hourly compensation of drivers  from $19.55 to $14.67
+- Prevent loss of up to 900,000 app-based driving jobs for Californians
 
 #### Main Costs
-- One sentence for each cost that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
+- None
 
+#### Follow up
+Emailed authors on 11/6; waiting for response.  
 
 ### Presented by opposing group
-**Evidence of opponents citing this report:** [URL/Email]
+**Evidence of opponents citing this report:** https://mobilealliance.org/ca-prop-22-facts/ (cites main cost from study)
 
-**Title of report:**
+**Title of report:** The Effects of Proposition 22 on Driver Earnings: Response to a Lyft-Funded Report by Dr. Christopher Thornberg
 
-**Authoring Organization:**
+**Authoring Organization:** Center for Labor Research and Education, Center on Wage and Employment Dynamics, Institute for Research on Labor and Employment
 
-**Authors (if any):**
+**Authors (if any):** Ken Jacobs, Michael Reich
 
-**URL of report:**
+**URL of report:** https://laborcenter.berkeley.edu/wp-content/uploads/2020/08/Response-to-Thornberg.pdf
 
 #### Main Benefits
-- One sentence for each benefit that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units  (eg. "increase in income in 10%")
+- $1.22 average health care stipend for drivers working 30 hours per week (much smaller than in Lyft's commissioned report)
 
 #### Main Costs
-- One sentence for each cost that is assessed. Indicate main quantiative estimate at the end. Clearly indicate quantity and units (eg. "increase in unemployment in 500 thousand people").
+- Reduction of guaranteed pay from $15.60 to $5.64 per hour
 
+#### Follow up
+Emailed authors on 11/6; Reich directed us to __working paper on AB5__ [here](https://irle.berkeley.edu/files/2020/10/Pay-Passengers-and-Profits.pdf) (Passing Prop 22 exempts companies hiring independent contractors from complying with AB5)
 
 <!-- Later
 ## Perceptions of credibility  
